@@ -1,6 +1,7 @@
 {
     "orgName": "Demo Company",
     "edition": "Developer",
+    "features": ["LightningSalesConsole", "LightningServiceConsole"],
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }

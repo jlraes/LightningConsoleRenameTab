@@ -1,0 +1,226 @@
+[
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529648203079,
+            "changeTime": 1529648203079,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529648203079,
+            "changeTime": 1529648203079,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529656779587,
+            "changeTime": 1529656779587,
+            "contentHash": "a42b6a815af45973ee4b23554b78328e27298b9f"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529656250222,
+            "changeTime": 1529656250222,
+            "contentHash": "161fe3902f276379326c3c6066181240b6e89e28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529656250228,
+            "changeTime": 1529656250228,
+            "contentHash": "b15dfd468dbc89bb98352fafa99103be3c8c1e97",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTab.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTab.cmp",
+            "isDirectory": false,
+            "size": 1755,
+            "modifiedTime": 1529656250228,
+            "changeTime": 1529656250228,
+            "contentHash": "091870b7b5aa8cf91656713692372586ed960efa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTab.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTab.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1529656250225,
+            "changeTime": 1529656250225,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTabController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\aura\\CaseConsoleTab\\CaseConsoleTabController.js",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1529656250227,
+            "changeTime": 1529656250227,
+            "contentHash": "fddba46fedecdaccbe1aae5b72566c00ac6d5d0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529655363511,
+            "changeTime": 1529655363511,
+            "contentHash": "258be74748350d606bdc7fdc854030e1a8d656e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3591,
+            "modifiedTime": 1529656779584,
+            "changeTime": 1529656779584,
+            "contentHash": "6a241b005db671f30f3f78324da6f9ab88ec9006"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\LightningService_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\LightningService_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 731,
+            "modifiedTime": 1529656779588,
+            "changeTime": 1529656779588,
+            "contentHash": "141f81472302a681ddec77a7fae19cc11b6a87a4"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7310,
+            "modifiedTime": 1529656779592,
+            "changeTime": 1529656779592,
+            "contentHash": "5a4ee5f6ed9fe14992c83810ff198774e5389b11"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages\\LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 727,
+            "modifiedTime": 1529656779594,
+            "changeTime": 1529656779594,
+            "contentHash": "5b43cf4d8b0c83ea7deb78cde4c24f9117688fa5"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects\\Case",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529656779584,
+            "changeTime": 1529656779584,
+            "contentHash": "8bc539b51a83758b0d9f5f1738cde7443d6e7d3f"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529656779582,
+            "changeTime": 1529656779582,
+            "contentHash": "9254c4bba00f5ff69304a7921d3118fcbac7e6b8"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\LightningConsoleRenameTab\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529656779594,
+            "changeTime": 1529656779594,
+            "contentHash": "afbe8acb5658cd4bb51976cbd08fe9277858d8c9"
+        }
+    ]
+]
