@@ -1,4 +1,5 @@
 ({
+    // see also https://www.biswajeetsamal.com/blog/tag/workspaceapi/
     setFocusedTabLabel : function(component, event, helper) {
         var workspaceAPI = component.find("workspace");
          
